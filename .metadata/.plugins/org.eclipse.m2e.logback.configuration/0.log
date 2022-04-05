@@ -1,0 +1,10 @@
+2022-03-31 09:51:35,861 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2022-04-04 16:30:24,303 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2022-04-04 16:51:28,771 [main] INFO  org.mortbay.log - Logging to Logger[org.mortbay.log] via org.mortbay.log.Slf4jLog
+2022-04-04 16:51:28,780 [main] INFO  org.mortbay.log - jetty-6.1.x
+2022-04-04 16:51:28,807 [main] INFO  org.mortbay.log - Started SocketConnector@localhost:59327
+2022-04-04 16:58:57,086 [main] INFO  org.mortbay.log - Stopped SocketConnector@localhost:59327
+2022-04-04 16:58:57,091 [731646478@qtp-423290826-1 - Acceptor0 SocketConnector@localhost:59327] WARN  org.mortbay.log - dispatch failed for org.mortbay.jetty.HttpConnection@6b5c4af5
+2022-04-04 17:00:14,806 [main] INFO  org.mortbay.log - jetty-6.1.x
+2022-04-04 17:00:14,810 [main] INFO  org.mortbay.log - Started SocketConnector@localhost:51879
+2022-04-04 17:00:21,385 [main] INFO  org.mortbay.log - Stopped SocketConnector@localhost:51879

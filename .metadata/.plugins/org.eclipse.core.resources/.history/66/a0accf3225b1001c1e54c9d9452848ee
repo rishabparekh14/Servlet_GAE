@@ -1,0 +1,28 @@
+package com.example;
+
+import java.io.IOException;
+
+
+
+@jakarta.servlet.annotation.WebServlet(
+    name = "HelloAppEngine",
+    urlPatterns = {"/hello"}
+)
+public class HelloAppEngine extends jakarta.servlet.http.HttpServlet {
+
+  /**
+	 * 
+	 */
+	private static final long serialVersionUID = 1L;
+
+@Override
+  public void doGet(jakarta.servlet.http.HttpServletRequest request, jakarta.servlet.http.HttpServletResponse response) 
+      throws IOException {
+
+    response.setContentType("text/plain");
+    response.setCharacterEncoding("UTF-8");
+
+    response.getWriter().print("Hello App Engine!\r\n");
+
+  }
+}
