@@ -2,11 +2,11 @@
 
 ### Servlet app running screenshot
 
-![app running screenshot](GAE_deploy.JPG)
+![app running screenshot](running.jpg)
 
 ### GAE dashboard with Servlet app running screenshot
 
-![GAE dashboard](running.jpg)
+![GAE dashboard](GAE_deploy.JPG)
 
 
 ### GAE URL
